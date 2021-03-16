@@ -1,6 +1,6 @@
 # R-TidyTuesdayChallenges
 
-Tidy Tuesday is a weekly dataset/problem that the folks at R provide. Here are some of my attempts to play around with the datasets
+Tidy Tuesday is a weekly dataset/problem that the folks at R provide. Here are some of my attempts to play around with the datasets:
 
 1. December 2020: Compelted Tidy Tuesday focused on Media Franchises (think Batman, Pokemon etc).
 R code focused on the largest media franchises, when they originated, and how much revenue they have been able to generate. 
